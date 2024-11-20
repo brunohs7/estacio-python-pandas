@@ -22,5 +22,3 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-## Exemplo de Saída
-![Gráfico de Receita, Custos e Lucros](exemplo-grafico.png)
