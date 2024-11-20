@@ -12,7 +12,7 @@ Este projeto gera gráficos com base em dados financeiros de uma planilha Excel.
 ## Instalação
 1. Clone este repositório:
 ```bash
-git clone https://github.com/SEU_USUARIO/controle-vendas.git
+git clone https://github.com/SEU_USUARIO/estacio-python-pandas.git
 ```
 2. Instale as dependências:
 ```bash
